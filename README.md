@@ -1,2 +1,2 @@
 # HTML_CSS
-My foray into truly learning HTML &amp; CSS, straight from Jon Duckett's book "HTML &amp; CSS - Design and Build Websites"
+My foray into truly officially teaching myself HTML and CSS from the ground up, courtesy of Jon Duckett's book "HTML and CSS - Design and Build Websites"
